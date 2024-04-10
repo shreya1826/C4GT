@@ -925,6 +925,6 @@
   </tr>
   <tr>
       <td>College</td>
-      <td>Ashoka Institute od Technology and Management,Varanasi</td>
+      <td>Ashoka Institute of Technology and Management,Varanasi</td>
   </tr>
 </table>
