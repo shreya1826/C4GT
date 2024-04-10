@@ -909,3 +909,20 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+     <td>Name</td>
+      <td>Shreya Upadhyay</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/shreya1826</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>www.linkedin.com/in/shreya2618/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Ashoka Institute od Technology and Management,Varanasi</td>
+  </tr>
+</table>
